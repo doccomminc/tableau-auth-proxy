@@ -33,3 +33,4 @@ lib/
 /client-secret.json
 /service-account.json
 /config.py
+/.venv
