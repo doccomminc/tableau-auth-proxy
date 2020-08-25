@@ -34,3 +34,4 @@ lib/
 /service-account.json
 /config.py
 /.venv
+.DS_Store
